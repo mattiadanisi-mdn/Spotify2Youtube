@@ -1,2 +1,2 @@
 # Spotify2Youtube
-App to download music from Spotify playlist via Youtube api
+Download music from Spotify playlist via Youtube api
